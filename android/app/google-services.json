@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727291293346",
+    "project_id": "sheet-test-f392a",
+    "storage_bucket": "sheet-test-f392a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727291293346:android:ea01a72a3c3d7c34e2b1fb",
+        "android_client_info": {
+          "package_name": "com.example.gogle_sheet_test_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH2n3YCqQST8OxBAe9iv1CF6wsq4N_6zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
